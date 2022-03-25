@@ -277,7 +277,7 @@ translate frenchtl remy2menu_68a85906:
     m "La seconde photo montrait Rémi dans son attirail typique - cravatte, lunettes, la totale."
 
 # game/remy2.rpy:338
-translate frenchtl remy2menu_6496ac67:
+translate frenchtl remy2menu_8ca34d2e:
 
     # m "The last of the three pictures was of another red dragon, who - as far as I could tell - was a fairly young member of its species. It reminded me of a younger version of Remy, although without his typical accessoires."
     m "La dernière des trois photos était un autre dragon rouge, qui - d'après ce que je pouvais dire - était un membre plutôt jeune de son espèce. Il me rappelait une version plus jeune de Rémi, quoique sans ses accessoires typiques."
