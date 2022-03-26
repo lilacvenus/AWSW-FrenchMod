@@ -179,43 +179,43 @@ translate frenchtl strings:
 
     # 00gui.rpy:227
     old "Are you sure?"
-    new "En êtes-vous certaine ?"
+    new "En êtes-vous certain(e) ?"
 
     # 00gui.rpy:228
     old "Are you sure you want to delete this save?"
-    new "Êtes-vous certaine de vouloir supprimer cette sauvegarde ?"
+    new "Êtes-vous certain(e) de vouloir supprimer cette sauvegarde ?"
 
     # 00gui.rpy:229
     old "Are you sure you want to overwrite your save?"
-    new "Êtes-vous certaine de vouloir écraser votre sauvegarde ?"
+    new "Êtes-vous certain(e) de vouloir écraser votre sauvegarde ?"
 
     # 00gui.rpy:230
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Charger vous fera perdre toute progression non sauvegardée.\nEtes vous certaine de vouloir faire ça ?"
+    new "Charger vous fera perdre toute progression non sauvegardée.\nÊtes vous certain(e) de vouloir faire ça ?"
 
     # 00gui.rpy:231
     old "Are you sure you want to quit?"
-    new "Êtes-vous certaine de vouloir partir ?"
+    new "Êtes-vous certain(e) de vouloir partir ?"
 
     # 00gui.rpy:232
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Êtes-vous certaine de vouloir retourner au menu principal ?\nVous perdrez toute progression non sauvegardée."
+    new "Êtes-vous certain(e) de vouloir retourner au menu principal ?\nVous perdrez toute progression non sauvegardée."
 
     # 00gui.rpy:233
     old "Are you sure you want to end the replay?"
-    new "Êtes-vous certaine de vouloir arrêter le replay ?"
+    new "Êtes-vous certain(e) de vouloir arrêter le replay ?"
 
     # 00gui.rpy:234
     old "Are you sure you want to begin skipping?"
-    new "Êtes-vous certaine de vouloir passer ?"
+    new "Êtes-vous certain(e) de vouloir passer ?"
 
     # 00gui.rpy:235
     old "Are you sure you want to skip to the next choice?"
-    new "Êtes-vous certaine de vouloir sauter au prochain choix ?"
+    new "Êtes-vous certain(e) de vouloir sauter au prochain choix ?"
 
     # 00gui.rpy:236
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Êtes-vous certaine de vouloir sauter des dialogues non lus pour aller au choix suivant ?"
+    new "Êtes-vous certain(e) de vouloir sauter des dialogues non lus pour aller au choix suivant ?"
 
     # 00keymap.rpy:252
     old "Saved screenshot as %s."
