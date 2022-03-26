@@ -17,6 +17,7 @@ Adds French as a language option to Angels with Scaly Wings\
 - [Gone46](https://github.com/Gone461)
 - StormTheWyvern
 - Kawaku
+- Manfred Thorston | Manakhan
 - Xraykill115
 
 ## Prerequisites | Conditions Préalables
