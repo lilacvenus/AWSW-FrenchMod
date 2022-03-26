@@ -14,9 +14,9 @@ class AWSWMod(Mod):
         c = ml.find_label("splashscreen") \
             .search_if("persistent.lang == \"Jp\"")
         c.branch() \
-            .search_menu().add_choice(text=u"Français {image=image/ui/lang-fr.png}".encode('utf-8'), jump="venus_ChangeToFrench")
+            .search_menu().add_choice(text=u"Français {image=tl/frenchtl/image/ui/lang-fr.png}".encode('utf-8'), jump="venus_ChangeToFrench")
         c.branch_else() \
-            .search_menu().add_choice(text=u"Français {image=image/ui/lang-fr2.png}".encode('utf-8'), jump="venus_ChangeToFrench")
+            .search_menu().add_choice(text=u"Français {image=tl/frenchtl/image/ui/lang-fr2.png}".encode('utf-8'), jump="venus_ChangeToFrench")
         c.link_behind_from("venus_ChangeToFrench_end")
 
     def mod_complete(self):
