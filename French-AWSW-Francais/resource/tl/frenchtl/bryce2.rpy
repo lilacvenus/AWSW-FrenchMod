@@ -1574,7 +1574,7 @@ translate frenchtl bryce2cont2_fcaf0fee:
 translate frenchtl bryce2cont2_21be6936:
 
     # c "No, the fact that you are getting so worked up about this proves to me that you are the one who is overreacting and that I'm right. You have a drinking problem."
-    c "Non, au contraire. Le fait que tu t'énerves tout seul prouve que [i]tu[/i] as un problème. Tu es alcoolique !"
+    c "Non, au contraire. Le fait que tu t'énerves tout seul prouve que {i}tu{/i} as un problème. Tu es alcoolique !"
 
 # game/bryce2.rpy:1087
 translate frenchtl bryce2cont2_0e69b7ca:
@@ -1713,7 +1713,7 @@ translate frenchtl bryce2cont2_0401c90e:
 translate frenchtl bryce2cont2_23bbf6b1:
 
     # c "It's funny that you say that, because for a while there actually was speculation that you were aliens."
-    c "C'est marrant que tu dises ça, parce qu'on s'est dit durant un certain temps que vous [i]étiez[/i] des extraterrestres."
+    c "C'est marrant que tu dises ça, parce qu'on s'est dit durant un certain temps que vous {i}étiez{/i} des extraterrestres."
 
 # game/bryce2.rpy:1175
 translate frenchtl bryce2cont2_2e42d7f3:
