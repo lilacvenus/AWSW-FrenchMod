@@ -2532,7 +2532,7 @@ translate frenchtl chap2libmenu_83f20e4b:
 translate frenchtl chap2libmenu_dca50168:
 
     # Ry "In any case, a blueprint is the kind of thing that would be placed in our care eventually."
-    Ry "En tout cas, un plan est le genre de choses qui finirait éventuellement entre nos mains."
+    Ry "En tout cas, un plan est le genre de chose que l'on nous confierait un jour ou l'autre."
 
 # game/chapter2.rpy:2176
 translate frenchtl chap2libmenu_82f59c77:
@@ -3888,7 +3888,7 @@ translate frenchtl _call_skipcheck_12_be016faf:
 translate frenchtl _call_skipcheck_12_ce812a36:
 
     # Sb "You can go over the same facts and evidence dozens of times and still miss something. Focus and keep trying, and you'll eventually find something new."
-    Sb "Tu peux réexaminer les mêmes faits et indices des douzaines de fois et malgré tout rater quelque chose. Concentre-toi et persiste, et tu trouveras éventuellement un nouvel élément."
+    Sb "Tu peux réexaminer les mêmes faits et indices des douzaines de fois et malgré tout rater quelque chose. Concentre-toi et continue d'essayer, et tu finiras par trouver quelque chose de nouveau."
 
 # game/chapter2.rpy:3616
 translate frenchtl _call_skipcheck_12_bff08eef:

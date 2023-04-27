@@ -1181,7 +1181,7 @@ translate frenchtl _call_skipcheck_25_e25ea962:
 translate frenchtl _call_skipcheck_25_a9e762ed:
 
     # c "Someone expelled from the city might find a different community, or join one of the mobile groups. The situation inside our city-state is still much better than the outside, though. They're very strict with those allowed to live there."
-    c "Quelqu'un expulsé de la ville peut éventuellement trouver une autre communauté, ou rejoindre les groupes nomades. La situation dans notre cité-état demeure en revanche bien meilleure qu'à l'extérieur. Ils sont très stricts avec ceux autorisés à vivre là-bas."
+    c "Quelqu'un expulsée de la ville peut trouver une autre communauté, ou rejoindre les groupes nomades. La situation dans notre cité-état demeure en revanche bien meilleure qu'à l'extérieur. Ils sont très stricts avec ceux autorisés à vivre là-bas."
 
 # game/remy3.rpy:784
 translate frenchtl _call_skipcheck_25_46192a75:

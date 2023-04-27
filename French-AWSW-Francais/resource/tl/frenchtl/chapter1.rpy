@@ -2932,7 +2932,7 @@ translate frenchtl _call_syscheck_11_4c8f346f:
 translate frenchtl _call_syscheck_11_9c2c9e41:
 
     # c "(So, daddy grape finds his kid crying and asks \"What's wrong, kid?\", but through all the tears, the kid couldn't get a single word out. Eventually, daddy had enough, so he said: \"Stop wi...\" No, I won't say it. It wasn't a good joke anyway.)"
-    c "(Alors, papa oignon trouve son fils en train de pleurer et lui demande \"Qu'est-ce qui ne va pas mon enfant ?\", mais à travers les larmes, il ne put sortir un seul mot. Éventuellement, le père en a assez, et dit alors \"Arrête de ple...\". Non, je ne vais pas le dire. Ce n'était pas une bonne blague de toute façon.)"
+    c "(Alors, papa oignon trouve son fils en train de pleurer et lui demande \"Qu'est-ce qui ne va pas mon enfant ?\", mais à travers les larmes, il ne put sortir un seul mot. Finalement, le père en a assez, et dit alors \"Arrête de ple...\". Non, je ne vais pas le dire. Ce n'était pas une bonne blague de toute façon.)"
 
 # game/chapter1.rpy:2760
 translate frenchtl _call_syscheck_11_4a56c371:
@@ -3550,7 +3550,7 @@ translate frenchtl continuation_76b2fe88:
 translate frenchtl continuation_ae7588ea:
 
     # n "Eventually, we arrived at the police station, where the chief took my formal statement in regards to yesterday's events."
-    n "Éventuellement, nous arrivâmes au commissariat, où le chef prit ma déclaration au regard des évènements de la veille."
+    n "Finalement, nous arrivâmes au commissariat, où le chef prit ma déclaration au regard des évènements de la veille."
 
 # game/chapter1.rpy:3104
 translate frenchtl continuation_a3c25806:

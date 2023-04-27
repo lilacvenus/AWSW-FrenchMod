@@ -295,7 +295,7 @@ translate frenchtl _call_skipcheck_22_adca4501:
 translate frenchtl _call_skipcheck_22_7f4176ad:
 
     # Ry "Oh, right! I still have work to do, but I could show you something afterwards."
-    Ry "Oh, oui bien sûr ! J'ai encore du travail à faire, mais je pourrais éventuellement te montrer quelque chose après."
+    Ry "Oh, oui bien sûr ! J'ai encore du travail à faire, mais je pourrais vous montrer quelque chose après."
 
 # game/remy1.rpy:236
 translate frenchtl _call_skipcheck_22_5be30e2a:
