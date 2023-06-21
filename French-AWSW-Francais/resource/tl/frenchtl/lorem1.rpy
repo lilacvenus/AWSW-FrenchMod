@@ -510,7 +510,7 @@ translate frenchtl _call_skipcheck_16_4facd386:
 translate frenchtl _call_skipcheck_16_12a75e24:
 
     # Lo normal "Sure. Since one of our myths tells us that the human who created us eventually turned into a dragon, there is a lot of room for interpretation as to how similar humans actually are to dragons."
-    Lo normal "Bien sûr. Puisque l'un de nos mythes nous dit que l'humain qui nous à créé s'est éventuellement changé en dragon, il y a beaucoup de place pour l'interprétation quant à quel point les humains sont similaires aux dragons."
+    Lo normal "Bien sûr. Puisque l'un de nos mythes raconte que l'homme qui nous a créés s'est transformé en dragon, il y a beaucoup de place pour l'interprétation quant à quel point les humains sont similaires aux dragons."
 
 # game/lorem1.rpy:452
 translate frenchtl _call_skipcheck_16_c28061a0:

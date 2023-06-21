@@ -1078,7 +1078,7 @@ translate frenchtl _call_skipcheck_28_bec38e42:
 translate frenchtl _call_skipcheck_28_0596f680:
 
     # Ry "When I met you in the park, I think the only reason I could tell you everything about myself was because I knew you were going to leave again eventually."
-    Ry "Quand je t'ai retrouvé dans le parc, je pense que la seule raison pour laquelle j'ai été capable de tout te dire à mon sujet, c'est parce que je savais que tu allais repartir éventuellement."
+    Ry "Quand je t'ai retrouvé dans le parc, je pense que la seule raison pour laquelle j'ai été capable de tout te dire à mon sujet, c'est parce que je savais que tu allais repartir un jour ou l'autre."
 
 # game/remy4.rpy:626
 translate frenchtl _call_skipcheck_28_bf19654f:

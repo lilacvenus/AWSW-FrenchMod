@@ -2998,7 +2998,7 @@ translate frenchtl continuation_0b0eb11f:
 translate frenchtl continuation_4bbd5c06:
 
     # m "Eventually, I arrived at my destination. Reza was already standing idly by the portal, his fidgeting making it obvious that he had waited just for me."
-    m "Éventuellement, j'arrivai à ma destination. Reza se tenait déjà debout à côté du portail, son agitation rendant clair qu'il m'avait attendu."
+    m "Finalement, j'arrivai à ma destination. Reza se tenait déjà debout à côté du portail, son agitation rendant clair qu'il m'avait attendu."
 
 # game/chapter1.rpy:2809
 translate frenchtl continuation_3df38fec:

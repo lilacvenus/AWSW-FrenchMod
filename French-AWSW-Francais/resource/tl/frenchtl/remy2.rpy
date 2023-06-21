@@ -904,7 +904,7 @@ translate frenchtl _call_skipcheck_35_f07ef459:
 translate frenchtl _call_skipcheck_35_134ad774:
 
     # Ry "Anna's defense was that she did it for the \"greater good\" and that she was confident that her experiments would be approved eventually."
-    Ry "La défense d'Anna était qu'elle faisait ça pour le \"bien commun\" et qu'elle avait confiance que ses expériences seraient éventuellement approuvées."
+    Ry "La défense d'Anna était qu'elle faisait ça pour le \"bien commun\" et qu'elle est confiante dans le fait que ses expériences seront approuvées un jour ou l'autre."
 
 # game/remy2.rpy:869
 translate frenchtl _call_skipcheck_35_9547853c:
